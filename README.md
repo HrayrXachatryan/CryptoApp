@@ -28,7 +28,7 @@
 
 | Home Dashboards | Market Analysis | Trade History |
 | :---: | :---: | :---: |
-| <table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td width="48%"><img src="https://github.com/user-attachments/assets/02a2b984-3307-4e7d-b180-604312949c66" width="100%" alt="dashboard1" /></td><td width="4%"></td><td width="48%"><img src="https://github.com/user-attachments/assets/83ea5a50-f9e2-46c5-9aac-037f4b8fe150" width="100%" alt="dashboard2" /></td></tr></table> | <img width="300" alt="details" src="https://github.com/user-attachments/assets/564a6cf0-5266-4728-9e47-793d4f70d6e0" /> | <img width="300" alt="history" src="https://github.com/user-attachments/assets/d4c34728-81c9-4cc3-ae41-af90bdc83538" /> |
+| <img width="300" alt="dashboard2" src="https://github.com/user-attachments/assets/83ea5a50-f9e2-46c5-9aac-037f4b8fe150" /> | <img width="300" alt="details" src="https://github.com/user-attachments/assets/564a6cf0-5266-4728-9e47-793d4f70d6e0" /> | <img width="300" alt="history" src="https://github.com/user-attachments/assets/d4c34728-81c9-4cc3-ae41-af90bdc83538" /> |
 
 
 
