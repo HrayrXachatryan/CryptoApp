@@ -70,10 +70,14 @@ This project is built using the latest industry standards and **Clean Architectu
 
 ## 📂 Project Structure
 
+
+
 ```text
 com.example.cryptoapp
 ├── data
-│   └── remote          # API Definitions, Retrofit Modules, and DTOs
+│   └── remote          # API Definitions and DTOs (Data Transfer Objects)
+├── di                  # Dependency Injection
+│   └── NetworkModule   # Retrofit, OkHttp, and Json serialization providers
 ├── domain
 │   ├── model           # Domain Entities (Coin, Transaction, etc.)
 │   └── use_case        # Business Logic / Interactors
